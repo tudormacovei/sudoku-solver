@@ -1,3 +1,11 @@
+# IDE files
+*.layout
+*.cbp
+*.depend
+
+# Input files
+map.txt
+
 # Prerequisites
 *.d
 
